@@ -1,0 +1,45 @@
+/* debug */
+.debug{
+  background-color: rgba(47, 79, 79, .2);
+  border: 1px solid black;
+}
+.min-h-300{
+  min-height: 300px;
+}
+
+.min-h-100 {
+  min-height: 100px;
+}
+
+.min-h-50 {
+  min-height: 50px;
+}
+
+/* /debug */
+
+
+/* HEADER */
+
+.sony-start {
+  background-color: black;
+}
+
+.logo-sony {
+  background-size: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* HEADER */
