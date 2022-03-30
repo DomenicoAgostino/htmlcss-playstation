@@ -31,14 +31,19 @@
 
 /* HEADER */
 
+
+
+
 .sony-start {
   background-color: black;
 }
 
 
 .nav-sony {
-  margin-top: 26px;
+  margin-top: 24px;
 }
+
+.logo-sony {}
 
 
 
@@ -72,3 +77,6 @@
 }
 
   
+/* MAIN  */
+
+
