@@ -3,6 +3,12 @@
   background-color: rgba(47, 79, 79, .2);
   border: 1px solid black;
 }
+
+.min-h-200{
+  min-height: 200px;
+}
+
+
 .min-h-300{
   min-height: 300px;
 }
