@@ -49,12 +49,26 @@
 
 /* JUMBOTRON */
 
-
-.jumbotron {
-  background-image: url(../img/returnal-listing-thumb-01-ps5.jpg);
+.my-jumbotron{
+  min-height: 500px;
   background-size: cover;
   background-position: center;
-  height: 800px;
-  
-
+  color: white;
+  padding: 50px 0;
 }
+
+.my-jumbotron p{
+  color: white;
+  font-size: 15px;
+}
+
+.my-jumbotron img{
+  width: 60%;
+}
+
+.bg-jumbotron{
+  margin-top: 80px;
+  background-image: url('../img/jumbo-bg.png');
+}
+
+  
