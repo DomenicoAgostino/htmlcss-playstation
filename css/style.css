@@ -87,7 +87,13 @@
   width: 100%;
   border-radius: 20px;
   border: 4px solid white;
+  transition: transform 0.5s;
 }
+
+
+#games img:hover{
+    transform: translateY(-10px);
+  }
 
 
 /* MAIN  */
