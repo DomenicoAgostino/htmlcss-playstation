@@ -48,9 +48,6 @@ body{
   font-family:Helvetica;
 }
 
-p{
-  color: rgb(114, 114, 114);
-}
 
 h2{
   font-size: 30px;
@@ -69,6 +66,9 @@ ul li {
 .img-ps5 {
   width: 65%;
 }
+
+
+
 
 /* /GENERIC */
 
@@ -155,18 +155,36 @@ ul li {
     /* /MAIN SECTION PS5 */
 
 
-    /* <!-- PS5 STRUMENTI-EXTRA --> */
+/* JUMBOTRON DUE */
 
-    
+.back-jumbo {
+  background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+  background-position: center;
+  background-size: cover;
+  color: white;
+}
+
+
+
+.jumbo-2 {
+  width: 100%;
+}
+
+
+/* /JUMBOTRON DUE */
+
+
+/* <!--SECTION NEW RELEASES -->*/
+
+.img-release {
+  width: 100%;
+}
 
 
 
 
 
-
-
-    /* <!-- /PS5 STRUMENTI-EXTRA --> */
-
+/* /<!--SECTION NEW RELEASES --> */
 
 
 /* MAIN  */
