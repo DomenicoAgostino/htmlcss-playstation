@@ -54,10 +54,14 @@ a{
   color: white;
 }
 
-ul {
+ul li {
   list-style: none;
 }
 
+
+.img-general {
+  width: 100%;
+}
 
 /* /GENERIC */
 
@@ -137,14 +141,25 @@ ul {
     
   }
 
-
-  .bottone{
-    border-radius: 20px;
+  #ps5-img {
+    width: 100%;
   }
 
-
-
     /* /MAIN SECTION PS5 */
+
+
+    /* <!-- PS5 STRUMENTI-EXTRA --> */
+
+    
+
+
+
+
+
+
+
+    /* <!-- /PS5 STRUMENTI-EXTRA --> */
+
 
 
 /* MAIN  */
