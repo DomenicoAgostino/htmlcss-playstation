@@ -207,15 +207,34 @@ ul li {
 
 .extra-ps4 img {
   width: 100%;
+ }
+
+/* <!-- /PS4 EXTRA-PS4 --> */
+
+
+/* PLAY PLUS */
+
+
+#play-plus {
+  background-color: rgb(190, 188, 187) ;
+}
+
+.img-plus {
+  width: 40%;
+}
+
+
+.bg-plus {
+  background-image: url('../img/ps-plus-april-monthly-games-featured-image-block.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: right;
 }
 
 
 
 
-
-
-/* <!-- /PS4 EXTRA-PS4 --> */
-
+/* /PLAY PLUS */
 
 
 /* MAIN  */
