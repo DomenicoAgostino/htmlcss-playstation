@@ -16,13 +16,19 @@
   min-height: 25px;
 
 }
-.min-h-100 {
-  min-height: 100px;
-}
 
 .min-h-50 {
   min-height: 50px;
 }
+
+.min-h-100 {
+  min-height: 100px;
+}
+
+.min-h-400 {
+  min-height: 400px;
+}
+
 
 .min-h-500 {
   min-height: 500px;
@@ -31,6 +37,7 @@
 .min-h-800 {
   min-height: 800px;
 }
+
 
 /* /debug */
 
@@ -59,8 +66,8 @@ ul li {
 }
 
 
-.img-general {
-  width: 100%;
+.img-ps5 {
+  width: 65%;
 }
 
 /* /GENERIC */
