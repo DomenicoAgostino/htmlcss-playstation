@@ -176,15 +176,27 @@ ul li {
 
 /* <!--SECTION NEW RELEASES -->*/
 
-.img-release {
-  width: 100%;
+
+#new-release {
+  background-color: rgb(31, 31, 31);
+  color: white;
 }
 
+.img-release {
+  width: 100%;
+  border-radius: 15px;
 
-
-
+}
 
 /* /<!--SECTION NEW RELEASES --> */
+
+
+
+.text-incredibili {
+  width: 60%;
+  margin: 0 auto;
+}
+
 
 
 /* MAIN  */
